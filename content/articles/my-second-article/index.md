@@ -6,12 +6,13 @@ banner:
   src: "../../images/git.png"
   alt: "Commits"
 categories:
-  - "Setup"
-  - "Tutorial"
+- "Setup"
+- "Tutorial"
 keywords:
-  - "Example"
-  - "GIT"
-  - "Blog"
+- "Example"
+- "Gatsby"
+- "Markdown"
+- "Blog"
 ---
 ## Get it started
 
