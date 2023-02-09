@@ -8,7 +8,7 @@ banner:
 categories:
 - "Setup"
 - "Tutorial"
-  keywords:
+keywords:
 - "Example"
 - "Gatsby"
 - "Markdown"
