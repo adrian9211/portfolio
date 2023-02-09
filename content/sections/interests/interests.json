@@ -1,16 +1,16 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "PHP & MySQL",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/php.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Laravel",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/laravel.png",
         "alt": ""
       }
     },
@@ -22,9 +22,9 @@
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "React",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
@@ -36,9 +36,9 @@
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Accessibility",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/accessibility.png",
         "alt": ""
       }
     },
@@ -50,9 +50,9 @@
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Performance",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/performance.png",
         "alt": ""
       }
     }

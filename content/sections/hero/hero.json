@@ -1,22 +1,14 @@
 {
-  "intro": "Hej",
-  "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
-  },
-  "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
-  },
-  "title": "I'm a Gatsby Starter",
+  "intro": "Hi,",
+
+  "title": "My name is Adrian,",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "a freelance web developer based in Edinburgh, Scotland",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Whether you're in need of a stunning new website or looking to enhance your current one, I am here to help. With a passion for delivering innovative and user-friendly web experiences, I work closely with clients to understand their unique needs and bring their vision to life. So if you're looking for a talented and dedicated web developer, look no further. I would be honored to work with you to bring your web project to life. Let's connect and start building something amazing together.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "StackOverflow", "Github", "Mail"],
     "showIcons": false
   }
 }

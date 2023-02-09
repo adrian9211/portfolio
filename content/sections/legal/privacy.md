@@ -2,18 +2,32 @@
 sectionId: privacy
 ---
 
-Your privacy is important to me. It is my, YOURNAME, policy to respect your privacy regarding any information I may collect from you across my website, YOURDOMAIN.
+Adrian Nykiel a freelance web developer based in Edinburgh, Scotland, is committed to protecting the privacy of its users and customers. This Privacy Policy outlines the information that we collect, how we use it, and the steps we take to ensure that your information is protected.
 
-I only ask for personal information when I truly need it to provide a service to you. I collect it by fair and lawful means, with your knowledge and consent. I also let you know why I am collecting it and how it will be used.
+Information Collection and Use
 
-I only retain collected information for as long as necessary to provide you with your requested service. What data I store, I'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+We may collect personal information such as your name, email address, and phone number when you contact us or use our services. This information is used to respond to your inquiries and provide you with the services you request.
 
-I don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+We may also collect non-personal information such as your IP address and browser type for the purpose of site analytics and to improve the user experience on our website.
 
-My website may link to external sites that are not operated by me. Please be aware that I have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+Data Security
 
-You are free to refuse my request for your personal information, with the understanding that I may be unable to provide you with some of your desired services.
+We take the security of your personal information very seriously and have implemented appropriate technical and organizational measures to protect it from unauthorized access, alteration, disclosure, or destruction.
 
-Your continued use of my website will be regarded as acceptance of my practices around privacy and personal information. If you have any questions about how I handle user data and personal information, feel free to contact me.
+However, please be aware that no method of transmitting or storing data is completely secure and there is always a risk that your information may be accessed, disclosed, or altered by unauthorized third parties.
 
-This policy is effective as of 22 September 2019. It has been generated with the help of GetTerms.io.
+Cookies
+
+Our website may use cookies to improve the user experience and track website usage. Cookies are small text files stored on your device that can be used to identify your browser when you visit our site. You may choose to disable cookies in your browser settings, but doing so may affect the functionality of our website.
+
+Third-Party Services
+
+We may use third-party services to provide certain services, such as site analytics and email services. These third-party providers may collect and store your information in accordance with their own privacy policies. We encourage you to review the privacy policies of any third-party services you use.
+
+Changes to this Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or to comply with legal requirements. If we make any material changes to this Policy, we will notify you through our website or by email.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy or the information we collect, please contact us through the contact form on our website or by email at [ec2021887@edinburghcollege.ac.uk].

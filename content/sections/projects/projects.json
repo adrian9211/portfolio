@@ -9,12 +9,12 @@
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://github.com/adrian9211"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/adrian9211"
         },
         {
           "type": "external",
@@ -35,7 +35,7 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/adrian9211"
         }
       ]
     }
@@ -43,6 +43,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/adrian9211"
   }
 }
