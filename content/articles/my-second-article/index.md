@@ -2,7 +2,7 @@
 title: "GIT commits best practices"
 description: "Knowledge about GIT commits best practices. In this article I will show you how to get started with GIT.
 date: "2023-02-09"
-banner:
+banner 
   src: "../../images/git3.png"
   alt: "Commits"
 categories:
