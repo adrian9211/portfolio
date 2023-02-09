@@ -5,7 +5,6 @@ date: "2023-02-01"
 banner:
   src: "../../images/git.png"
   alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
   - "Setup"
   - "Tutorial"
@@ -17,9 +16,9 @@ keywords:
 ---
 ## Get it started
 
-![This is the alt tag.](../../images/git4.png)
-
 Git is a distributed version control system that has become the de facto standard for software development teams worldwide. It is an open-source tool that provides a way to track changes to software source code over time, collaborate with other developers, and manage the development process of complex projects.
+
+![This is the alt tag.](../../images/git4.png)
 
 ## When it was created?
 
