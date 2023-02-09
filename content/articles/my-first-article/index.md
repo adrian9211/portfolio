@@ -3,7 +3,7 @@ title: "GIT? Let's get started!"
 description: "Knowledge about why GIT is a must for every developer. In this article I will show you how to get started with GIT."
 date: "2023-02-01"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
+  src: "../../images/git.png"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
@@ -15,59 +15,28 @@ keywords:
   - "Markdown"
   - "Blog"
 ---
-## Code block test
+## Get it started
 
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
+![This is the alt tag.](../../images/git4.png)
 
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
+Git is a distributed version control system that has become the de facto standard for software development teams worldwide. It is an open-source tool that provides a way to track changes to software source code over time, collaborate with other developers, and manage the development process of complex projects.
 
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
+## When it was created?
 
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-```
+Git was created by Linus Torvalds in 2005 and is used by many large organizations, including Google, Microsoft, and Facebook, as well as by individual developers. The tool is designed to make it easy to work with a team of developers and keep track of changes to a codebase. It is also built to be scalable, so that it can handle large projects with many contributors.
 
-Inline code: `print()`
+![This is the alt tag.](../../images/git2.png)
 
-Lorem ipsum dolor sit amed Vel ut spiritday all cultural Lili Elbe lorem in sexuality Herstory sit lorem Ac Genderless homoflexible trans Carrie Fisher Transgender love family cross-dresser ac a ut Ac xe she ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners Ipsum Chimamanda Ngozi sed sit Equal movement gender ut est lorem Laura Jane Grace Emma Watson sem eu.
+Git is a decentralized version control system, which means that each developer has a local copy of the entire repository, including all historical versions of the code. This makes it easy for developers to work independently, without having to be connected to a central server. It also makes it easy to merge changes made by different developers, since each copy of the repository includes all of the history of the project.
 
-**Maria Montessori vel sem in eu Leelah Alcorn** In eu Leelah Alcorn in Margaret Sanger future Martha Nussbaum eu gender non-conformity Family cross-dresser ac a ut representation drag queen Ac third wave Hannah Gadsby culture feminismus ac suffragette cisgender in a eu Ac a ut representation drag queen Out Lorem ac no means no f word sed Emmeline Pankhurst.
 
-## Second Headline
+One of the key benefits of using Git is that it provides a complete history of changes made to a codebase. This makes it easy to revert to an earlier version of the code if a problem is found, or to see how a particular feature was implemented. In addition, Git provides a powerful set of tools for comparing different versions of code and for tracking the development process.
 
-Est vel est appreciation Nadia Murad Basee Taha cross-dressing vel Ut mi sit ut eu id Samira Wiley sit vel sem Ut romance in gender studies ballroom Sit lorem ac no means no f word sed Emmeline Pankhurst Ac sorellanza In Lea Delaria in grrlpwr pansexual intersectional yas queen diritti id mi Sem Audre Lorde Sappho in sed et empowerment genderqueer intersex.
 
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
+Git also makes it easy to collaborate with other developers. It provides a way to manage different branches of a project, which allows multiple developers to work on different features at the same time. When changes are made to a branch, they can be merged into the main branch, ensuring that everyone is working with the latest version of the code.
+![This is the alt tag.](../../images/git3.png)
 
-Feminizmas eu Dian Fossey ac third wave notion supporting androgyny dui ut People a Sylvia Plath mi sex-positivity demisexual a equality suffragettes pronouns Vel est appreciation Nadia Murad Basee Taha cross-dressing vel Sustainability ut sit dui Lesbians and Gays Support the Miners local eu Hanna Gaby Odiele est queer Misty Copeland She ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners local Equal ac et ut romance in Second wave sit friendship grl pwr castro.
+Another important feature of Git is that it makes it easy to manage and track issues with a project. Issues can be logged and assigned to individual developers, and their status can be tracked over time. This makes it easy to see what has been done and what still needs to be done.
 
-### Third Headline
-
-Vel sem Sed Roxane Gay Caitlin Moran Ace id Amelia Earhart Gloria Steinem Samira Wiley sit Amelia Earhart Gloria Steinem eu In et ac in Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility Dance Simone de Beauvoir eu sem.
-
-#### Fourth Headline
-
-Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility dui et voices Stonewall Inn sem et Ac pride month lorem et eu dui sit eu ut Eu ut Et in lorem id sed Id Kate Bornstein smash the patriarchy et et eu motivational ut In Chimamanda Ngozi sed sit strength.
-
-![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
-
-Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola.
+### Conclusion
+In conclusion, Git is a powerful and flexible tool that is essential for software development teams. Its decentralized design, complete history of changes, and ability to manage different branches and track issues make it the perfect tool for managing the development process of complex projects. Whether you are working on a small side project or a large-scale software development effort, Git can help you keep your code organized and under control.
