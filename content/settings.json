@@ -14,7 +14,11 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Adrian's WebDev" },
+    "logo": {
+      "text": "Adrian's WebDev",
+      "src": "../content/images/logo.png",
+      "alt": "Logo"
+    },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
