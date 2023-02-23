@@ -18,16 +18,13 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "Adrian Nykiel",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "homepage": "https://edinburghwebdeveloper.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+    "url": "https://github.com/adrian9211/portfolio"
   },
   "keywords": [
     "react",
