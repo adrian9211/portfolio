@@ -7,7 +7,7 @@
     "alt": "Contact Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "StackOverflow", "Github", "Mail"],
+    "from": ["LinkedIn", "StackOverflow", "Github", "Mail", "Instagram"],
     "showIcons": true
   }
 }
