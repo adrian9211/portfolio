@@ -20,6 +20,7 @@ module.exports = {
         },
         googleAnalytics: {
             trackingId: "G-6VL8R267QM",
+            head: true, // Default false
             anonymize: true, // Default true
             environments: ["production", "development"] // Default ["production"]
         }
